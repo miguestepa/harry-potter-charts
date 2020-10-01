@@ -1,4 +1,4 @@
-<img src="https://bit.ly/2VnXWr2" alt="Harry Potter Movies" width="100"/>
+<img src="https://github.com/miguestepa/harry-potter-charts/blob/master/harry-potter-movies.jpg" alt="Harry Potter Movies" width="100"/>
 
 # Title of My Project
 *Miguel Estepa*, *Vicky Zauner*
@@ -15,14 +15,10 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
-
-We chose to investigate the correlation of movie success and youtube views counts and searches in respect to the Harry Potter Saga, becuase we are able to monitor the relationship and draw conclusions over the course of 15 years. 
+An analysis of the correlation of movie success and Youtube views counts and searches in respect to the Harry Potter Saga.
+The main idea is to study if there is some relationship between the hype created in Youtube and the actual success of the movie.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
-
-
 - Which Harry Potter Movie and Book was the most popular / successful?
 - How does the number of View Counts of Youtube Videos related to Harry Potter develop over time?
 How is the number of View Counts affected by movie releases?
@@ -31,8 +27,6 @@ How is the number of View Counts affected by movie releases?
 
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
-
 We used the Youtube Data API, CSV files from Kaggle and Scraped the website Numbers.com. Please see links in our Paper.
 
 ## Database
@@ -42,12 +36,8 @@ What is the structure of your database? Have you created more than one table and
 We started out our brainstorming session with a browse trough open API's and decided to concentrate on three content fields. We wanted to find two intertwined topics and data sources to deversify our analysis. Eventually we decided to analyze the correlation of mentions on Youtube e.g. Social Media Marketing, Summaries, etc. and the actual sales/success of books by using APIs from publishers (and Amazon). In the end we decided to concentrate on the Harry Potter Saga in detail. For every day of working on the project, we sceduled daily meetings to discuss our findings and the next steps.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-We used a Trello board to keep track of our work progress and our tasks. 
 
-We used a Trello board, please see link below.
-
-What does your repository look like? Explain your folder and file structure.
+We used a Trello board to keep track of our work progress and our tasks. Check the link below.
 In our repository you will find the readme file and paper in the "your-project" folder, together with two folders called Miguel-work and Vicky-work in which all the material, data and jupyter notebooks are stored. 
 
 ## Links
