@@ -46,3 +46,4 @@ Include links to your repository, slides and kanban board. Feel free to include 
 [Repository](https://github.com/miguestepa/harry-potter-charts)  
 [Slides](https://github.com/miguestepa/harry-potter-charts/blob/master/Project%20Week%203%20-%20Miguel%20Estepa%20%26%20Vicky%20Zauner.pptx)  
 [Trello](https://trello.com/b/vAPQs8Re/ironhack-project-3)  
+[Vicky's work!](https://github.com/VickyZauner)
