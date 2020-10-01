@@ -30,15 +30,15 @@ We used the Youtube Data API, CSV files from Kaggle and Scraped the website Numb
 
 ## Our Conclusion
 
-The most popular movies were Part 1 and the latter Part 7, while the biggest hype was created around the latter part of Part 7
-The popularity of DVD’s/BlueRay Discs has dropped by 70,38 % from the fourth movie to the last
-While all books are among the best selling books in History, the most copies were sold of the first part.
-There was a spike in Harry Potter searches after the last Movie was released - probably because people were coping with the end of an era
+- The most popular movies were Part 1 and the latter Part 7, while the biggest hype was created around the latter part of Part 7.
+- The popularity of DVD’s/BlueRay Discs has dropped by 70,38 % from the fourth movie to the last.
+- While all books are among the best selling books in History, the most copies were sold of the first part.
+- There was a spike in Harry Potter searches after the last Movie was released - probably because people were coping with the end of an era
 
 ## Workflow and Organization
-We started out our brainstorming session with a browse trough open API's and decided to concentrate on three content fields. We wanted to find two intertwined topics and data sources to deversify our analysis. Eventually we decided to analyze the correlation of mentions on Youtube e.g. Social Media Marketing, Summaries, etc. and the actual sales/success of books by using APIs from publishers (and Amazon). In the end we decided to concentrate on the Harry Potter Saga in detail. For every day of working on the project, we sceduled daily meetings to discuss our findings and the next steps.
-We used a Trello board to keep track of our work progress and our tasks. Check the link below.
-In our repository you will find the readme file and paper in the "your-project" folder, together with two folders called Miguel-work and Vicky-work in which all the material, data and jupyter notebooks are stored. 
+- We started out our brainstorming session with a browse trough open API's and decided to concentrate on three content fields. We wanted to find two intertwined topics and data sources to deversify our analysis. Eventually we decided to analyze the correlation of mentions on Youtube e.g. Social Media Marketing, Summaries, etc. and the actual sales/success of books by using APIs from publishers (and Amazon). In the end we decided to concentrate on the Harry Potter Saga in detail. For every day of working on the project, we sceduled daily meetings to discuss our findings and the next steps.
+- We used a Trello board to keep track of our work progress and our tasks. Check the link below.
+- In our repository you will find the readme file and paper in the "your-project" folder, together with two folders called Miguel-work and Vicky-work in which all the material, data and jupyter notebooks are stored. 
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
