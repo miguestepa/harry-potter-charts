@@ -1,4 +1,4 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+<img src="https://bit.ly/2VnXWr2" alt="Harry Potter Movies" width="100"/>
 
 # Title of My Project
 *Miguel Estepa*, *Vicky Zauner*
