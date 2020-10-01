@@ -1,4 +1,4 @@
-<img src="https://github.com/miguestepa/harry-potter-charts/blob/master/harry-potter-movies.jpg" alt="Harry Potter Movies" width="100"/>
+<img src="https://github.com/miguestepa/harry-potter-charts/blob/master/resources/harry-potter-movies.png" alt="Harry Potter Movies" width="100"/>
 
 # Harry Potter Movies' Chart
 *Miguel Estepa*, *Vicky Zauner*
